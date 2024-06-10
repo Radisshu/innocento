@@ -1,0 +1,9 @@
+/* CSS específico para enlaces con la clase .hover-link */
+a.hover-link {
+    color: white; /* Color original del enlace */
+    text-decoration: none; /* Quita el subrayado por defecto */
+}
+
+a.hover-link:hover {
+    color: red; /* Color del enlace al pasar el cursor */
+}
